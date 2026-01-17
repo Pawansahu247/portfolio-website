@@ -93,7 +93,7 @@ const App = () => {
               </div>
               <div className="contact-info">
                 <p className="contact-title">Phone</p>
-                <a href="tel:+918815638774" className="contact-link">+91 8815638774</a>
+                <a href="#" className="contact-link">+91 xxx</a>
               </div>
             </li>
             <li className="contact-item">
@@ -126,7 +126,7 @@ const App = () => {
       rel="noopener noreferrer"
       className="leetcode-link"
     >
-      10+ Questions Solved
+      50 + Questions Solved
     </a>
   </div>
 </li>
